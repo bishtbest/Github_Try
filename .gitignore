@@ -1,3 +1,4 @@
 # Mention the folders that you dont want to commit and push and ignore them instead. 
 
 .CheatSheets
+.data-science-enviornment
